@@ -20,4 +20,4 @@ d = owiener.attack(e, n)
 m = pow(c, d, n)
 msg = str(long_to_bytes(m))[2:-1].strip()
 
-print(msg)
+print(msg) #picoCTF{bad_1d3a5_2438125}

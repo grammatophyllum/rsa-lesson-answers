@@ -4,7 +4,7 @@ PicoCTF/NYRCS Challenges Answer
 
 - Lesson 2: Basic RSA
 - Lesson 3: Advanced RSA
-- Lesson 4: Misc
+- Lesson 4: Basic AES
 
 ## Python Installation
 Download requirements.txt
